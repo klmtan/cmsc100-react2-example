@@ -1,0 +1,25 @@
+{
+  "name": "cmsc100uv2l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klmtan/cmsc100uv2l.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klmtan/cmsc100uv2l/issues"
+  },
+  "homepage": "https://github.com/klmtan/cmsc100uv2l#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2",
+    "needle": "^3.2.0"
+  }
+}
